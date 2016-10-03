@@ -1,0 +1,4 @@
+Delag_Lighter Rain Casting Cloud
+
+Removes rain out of Rain Casting.
+Retains cloud.

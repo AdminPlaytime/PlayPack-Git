@@ -1,0 +1,3 @@
+Modification_Shorter Quest Tabs
+
+Shortens some of the long quest tab names, because I'm too lazy to navigate through a bunch of them.

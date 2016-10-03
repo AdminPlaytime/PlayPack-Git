@@ -1,0 +1,4 @@
+Remove_Invisible Theatre Mission Curtain
+
+Makes Theatre Mission loading curtains invisible.
+It makes appearance of your actual character slightly faster.

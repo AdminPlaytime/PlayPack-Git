@@ -1,0 +1,30 @@
+2000_Poison_Pack_Addon_Commerce Bandit Range Indicator
+2001_Poison_Pack_Addon_Dragon Meteor Indicator
+2002_Poison_Pack_Addon_Easier Life Skill Minigames
+2003_Poison_Pack_Addon_Fixed Dye Color Differentiation
+2004_Poison_Pack_Addon_Longer Ancient Monster Title
+2005_Poison_Pack_Addon_L-Rod Amplification
+2006_Poison_Pack_Addon_Mana Shield, Deadly and ETC Indicator
+2007_Poison_Pack_Addon_Pet Hot Commands
+
+3000_Poison_Pack_Modification_Bigger General Items & Minor Modification
+3001_Poison_Pack_Modification_Blank Character on Minimization
+3002_Poison_Pack_Modification_Faster Takeoff & Landing Speed
+3003_Poison_Pack_Modification_Hidden Monster Differentiation
+3004_Poison_Pack_Modification_Increase Auto Production Limit
+3005_Poison_Pack_Modification_No Fog & Marked Minimap
+3006_Poison_Pack_Modification_Shorter Quest Tabs
+
+5000_Poison_Pack_Remove_Chat Censorship
+5001_Poison_Pack_Remove_Cutscene
+5002_Poison_Pack_Remove_Earthquake
+5003_Poison_Pack_Remove_Empty Production Props
+5004_Poison_Pack_Remove_Item Drop Animation
+5005_Poison_Pack_Remove_Invisible Theatre Mission Curtain
+
+9000_Poison_Pack_Misc_Blood Effect in Combat
+
+9004_Poison_Pack_Delag_Indoor Dungeon & Mission
+9005_Poison_Pack_Delag_Lighter Rain Casting Cloud
+
+9900_Poison_Pack_Feature Tweaks

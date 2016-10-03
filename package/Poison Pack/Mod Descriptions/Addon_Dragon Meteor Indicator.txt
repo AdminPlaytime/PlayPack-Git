@@ -1,0 +1,6 @@
+Addon_Dragon Meteor Indicator
+
+Displays where dragon's meteor will land.
+Sometimes the indicator is lifted from the ground, so be careful if you're trying to dodge as meteors will have a considerable amount of offset.
+
+Source: DC Mabinogi Gallery

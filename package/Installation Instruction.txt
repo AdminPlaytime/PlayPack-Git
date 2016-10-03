@@ -1,0 +1,70 @@
+====================================================================================================
+====================================================================================================
+
+
+Index
+	A. Installation
+	B. Uninstallation
+	C. FAQ
+
+
+====================================================================================================
+====================================================================================================
+
+
+A. Installation
+	1. Make sure Mabinogi is turned off.
+	2. Open "Poison Pack Rxxx" and copy "Poison Pack" folder.
+	3. Go to your Mabinogi folder, find a folder named "package".
+	4. Paste the folder into the "package" folder.
+	5. Open the "Poison Pack" folder you pasted.
+	6. Delete functions you do not wish to use.
+	
+	Tip - Copying individual files directly into "package" folder might crash your client.
+
+
+====================================================================================================
+====================================================================================================
+
+
+B. Uninstallation
+	1. Make sure Mabinogi is turned off.
+	2. Go to "package" folder.
+	3. Find any files that include the name "Poison_Pack".
+	4. Delete them.
+
+	Warning - Do NOT delete other files. It will break your game.
+
+
+====================================================================================================
+====================================================================================================
+
+
+C. FAQ
+	Where is my "package" folder?
+		Without "package" folder, Mabinogi cannot run. You must have found wrong folder.
+		Normal Users - [ C:\Nexon\Mabinogi ]
+		Steam Users - [ C:\Program Files\Steam\steamapps\common\Mabinogi ] or [ C:\Program Files (x86)\Steam\steamapps\common\Mabinogi ]
+
+		If you can't find it, that means you installed it on a custom location.
+		In that case, I am fucking sorry because I have no fucking clue where the fuck YOU installed it.
+		Idiot.
+
+
+	It doesn't work!
+		All files are tested before I upload them.
+		If it doesn't work, you probably did it wrong.
+
+
+	Can you add **** feature?
+		No.
+
+
+	Poison Pack broke! When is the update?
+		Usually within 2~3 days,
+		1~2 weeks if something happened to me.
+		If it takes more than 2 weeks, assume that I'm dead.
+
+
+====================================================================================================
+====================================================================================================

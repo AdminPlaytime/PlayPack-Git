@@ -1,0 +1,3 @@
+Remove_Cutscene
+
+Removes useless cutscenes such as dungeon boss rooms.

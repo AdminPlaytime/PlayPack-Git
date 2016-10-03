@@ -1,0 +1,3 @@
+Addon_Longer Ancient Monster Title
+
+Changes 'the Ancient' title to a longer title, so that it can be spotted easily.

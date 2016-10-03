@@ -1,0 +1,7 @@
+Modification_No Fog & Marked Minimap
+
+Removes dungeon minimap fog.
+Adds markings to shadow missions, etc.
+Shows bandits on minimap.
+
+Source: Minimaps are taken from somewhere. I don't remember.

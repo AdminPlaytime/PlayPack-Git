@@ -1,0 +1,4 @@
+Remove_Empty Production Props
+
+Blank out empty production props such as herb patches.
+It helps when training life skills or gathering materials in general.

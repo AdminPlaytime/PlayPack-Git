@@ -1,0 +1,6 @@
+Addon_Commerce Bandit Range Indicator
+
+Displays a range of hiding bandit.
+If you go close to the indicated edge, bandits will spawn.
+
+Source: mabimods.net

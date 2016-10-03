@@ -1,0 +1,4 @@
+Remove_Earthquake
+
+Removes earthquake effects and stops screen from shaking.
+No more dizzy screen! Yay!

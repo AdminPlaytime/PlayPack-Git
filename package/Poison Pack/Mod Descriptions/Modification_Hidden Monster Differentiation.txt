@@ -1,0 +1,3 @@
+Modification_Hidden Monster Differentiation
+
+Differentiates Strange Book and Mimic.

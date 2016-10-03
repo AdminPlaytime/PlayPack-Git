@@ -1,0 +1,11 @@
+Addon_Pet Hot Commands
+
+Use hot commands for quick pet summons.
+Also supports Korean and Korean typos.
+
+1 replaces summon
+2 replaces disappear
+3 replaces inventory
+For example, type in chat "Horsename 1!" and Horsename will be summoned.
+
+More features are to come, submit ideas to the website if you have any.

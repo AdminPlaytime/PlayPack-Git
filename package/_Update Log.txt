@@ -1,0 +1,239 @@
+16092016
+	Compatibility Patch:
+		2004_Poison_Pack_Addon_Longer Ancient Monster Title.pack
+		2006_Poison_Pack_Addon_Mana Shield, Deadly and ETC Indicator.pack
+		3000_Poison_Pack_Modification_Bigger General Items & Minor Modification.pack
+		3005_Poison_Pack_Modification_No Fog & Marked Minimap.pack
+		3006_Poison_Pack_Modification_Shorter Quest Tabs.pack
+		5002_Poison_Pack_Remove_Earthquake.pack
+		9900_Poison_Pack_Feature Tweaks.pack
+
+
+31082016
+	Compatibility Patch:
+		2006_Poison_Pack_Addon_Mana Shield, Deadly and ETC Indicator
+
+
+24082016
+	Update:
+		3000_Poison_Pack_Modification_Bigger General Items & Minor Modification
+			- Dungeon Keys have been restored to original size. They are clickable now. (Wasn't clickable when it was enlarged.)
+			- Added the key location effect to Chest Keys that were added to the game from 2016 Dungeon Renewal.
+			- Chest Keys' names don't blink like Room and Boss Room Keys do.
+
+
+18082016
+	Upodate:
+		5001_Poison_Pack_Remove_Cutscene
+			- Updated boss cutscene removals.
+			- It may be unstable. Use at your own risk.
+	
+	Compatibility Patch:
+		2004_Poison_Pack_Addon_Longer Ancient Monster Title
+		2006_Poison_Pack_Addon_Mana Shield, Deadly and ETC Indicator
+		3000_Poison_Pack_Modification_Bigger General Items & Minor Modification
+		3002_Poison_Pack_Modification_Faster Takeoff & Landing Speed
+		3004_Poison_Pack_Modification_Increase Auto Production Limit
+		3005_Poison_Pack_Modification_No Fog & Marked Minimap
+		3006_Poison_Pack_Modification_Shorter Quest Tabs
+		5002_Poison_Pack_Remove_Earthquake
+		9900_Poison_Pack_Feature Tweaks
+
+
+12052016
+	Compatibility Patch:
+		2004_Poison_Pack_Addon_Longer Ancient Monster Title
+		2006_Poison_Pack_Addon_Mana Shield, Deadly and ETC Indicator
+		3000_Poison_Pack_Modification_Bigger General Items & Minor Modification
+		3006_Poison_Pack_Modification_Shorter Quest Tabs
+		5002_Poison_Pack_Remove_Earthquake
+		9900_Poison_Pack_Feature Tweaks
+
+
+14042016
+	Compatibility Patch:
+		2004_Poison_Pack_Addon_Longer Ancient Monster Title
+		2006_Poison_Pack_Addon_Mana Shield, Deadly and ETC Indicator
+		2007_Poison_Pack_Addon_Pet Hot Commands
+		3000_Poison_Pack_Modification_Bigger General Items & Minor Modification
+		3002_Poison_Pack_Modification_Faster Takeoff & Landing Speed
+		3004_Poison_Pack_Modification_Increase Auto Production Limit
+		3005_Poison_Pack_Modification_No Fog & Marked Minimap
+		3006_Poison_Pack_Modification_Shorter Quest Tabs
+		5002_Poison_Pack_Remove_Earthquake
+		9900_Poison_Pack_Feature Tweaks
+
+
+23032016
+	Compatibility Patch:
+		3000_Poison_Pack_Modification_Bigger General Items & Minor Modification
+		3006_Poison_Pack_Modification_Shorter Quest Tabs
+		9900_Poison_Pack_Feature Tweaks
+
+
+18022016
+	Compatibility Patch:
+		2004_Poison_Pack_Addon_Longer Ancient Monster Title
+		2006_Poison_Pack_Addon_Mana Shield, Deadly and ETC Indicator
+		3000_Poison_Pack_Modification_Bigger General Items & Minor Modification
+		3005_Poison_Pack_Modification_No Fog & Marked Minimap
+		3006_Poison_Pack_Modification_Shorter Quest Tabs
+		5002_Poison_Pack_Remove_Earthquake
+		9900_Poison_Pack_Feature Tweaks
+
+
+22012016
+	Compatibility Patch:
+		2004_Poison_Pack_Addon_Longer Ancient Monster Title
+		2006_Poison_Pack_Addon_Mana Shield, Deadly and ETC Indicator
+		2007_Poison_Pack_Addon_Pet Hot Commands
+		3000_Poison_Pack_Modification_Bigger General Items & Minor Modification
+		3004_Poison_Pack_Modification_Increase Auto Production Limit
+		3005_Poison_Pack_Modification_No Fog & Marked Minimap
+		3006_Poison_Pack_Modification_Shorter Quest Tabs
+		5002_Poison_Pack_Remove_Earthquake
+		9900_Poison_Pack_Feature Tweaks
+
+
+07012016
+	Compatibility Patch:
+		Addon_Longer Ancient Monster Title
+
+
+21122015
+	Compatibility Patch:
+		Addon_Longer Ancient Monster Title
+		Modification_Shorter Quest Tabs
+
+
+17122015
+	Compatibility Patch:
+		Addon_Longer Ancient Monster Title
+		Addon_Mana Shield, Deadly and ETC Indicator
+		Addon_Pet Hot Commands
+		Modification_Bigger General Items & Minor Modification
+		Modification_Faster Takeoff & Landing Speed
+		Modification_No Fog & Marked Minimap
+		Modification_Shorter Quest Tabs
+		Remove_Earthquake
+		Feature Tweaks
+
+
+02122015
+	Compatibility Patch:
+		Addon_Longer Ancient Monster Title
+		Modification_Shorter Quest Tabs
+
+
+18112015
+	Compatibility Patch:
+		Addon_Longer Ancient Monster Title
+		Addon_Mana Shield, Deadly and ETC Indicator
+		Addon_Pet Hot Commands
+		Modification_Bigger General Items & Minor Modification
+		Modification_Shorter Quest Tabs
+		Remove_Earthquake
+		Feature Tweaks
+
+
+06112015
+	Compatibility Patch:
+		Addon_Longer Ancient Monster Title
+		Addon_Pet Hot Commands
+		Modification_Shorter Quest Tabs
+
+
+27102015
+	Compatibility Patch:
+		Modification_Shorter Quest Tabs
+
+
+22102015
+	Compatibility Patch:
+		Addon_Longer Ancient Monster Title
+		Addon_Mana Shield, Deadly and ETC Indicator
+		Modification_Bigger General Items & Minor Modification
+		Modification_Faster Takeoff & Landing Speed
+		Modification_No Fog & Marked Minimap
+		Modification_Shorter Quest Tabs
+		Remove_Earthquake
+		Feature Tweaks
+	
+	Update:
+		Addon_Pet Hot Commands
+			- More commands for Dana O'shee (Fallen Fairy)
+	
+	Removal:
+		Misc_Skip Saga 2 Episode 6 Cutscenes
+
+
+21092015
+	Compatibility Patch:
+		Longer Ancient Monster Title
+		Bigger General Items & Minor Modification
+		Shorter Quest Tabs
+		Feature Tweaks
+		
+	Addition:
+Remove_Invisible Theatre Mission Curtain
+		
+	Removal:
+		Check_Poison
+
+
+20082015
+	Compatibility Patch:
+		Longer Ancient Monster Title
+		Bigger General Items & Minor Modification
+		Faster Takeoff & Landing Speed
+		No Fog & Marked Minimap
+		Shorter Quest Tabs
+		Feature Tweaks
+
+
+21052015
+	Function Update:
+		Bigger General Items & Minor Modification
+
+	Compatibility Patch:
+		Enable Multi-clienting
+		Reforge Real-view
+		Longer Ancient Monster Title
+		Mana Shield, Deadly and ETC Indicator
+		Pet Hot Commands
+		Faster Takeoff & Landing Speed
+		Increase Auto Production Limit
+		No Fog & Marked Minimap
+		Shorter Quest Tabs
+		Cutscene
+		Earthquake
+		
+		
+22062015
+	Compatibility Patch:
+		Addon_Longer Ancient Monster Title
+		Modification_Bigger General Items & Minor Modification
+		Modification_Faster Takeoff & Landing Speed
+		Modification_Shorter Quest Tabs
+		Remove_Earthquake
+		Feature Tweaks
+		
+		
+20072015
+	Compatibility Patch:
+		Addon_Longer Ancient Monster Title
+		Modification_Bigger General Items & Minor Modification
+		Modification_Faster Takeoff & Landing Speed
+		Modification_Shorter Quest Tabs
+		Remove_Earthquake
+		Feature Tweaks
+		
+		
+23072015
+	Compatibility Patch:
+		Addon_Longer Ancient Monster Title
+		Modification_Bigger General Items & Minor Modification
+		Modification_No Fog & Marked Minimap
+		Modification_Shorter Quest Tabs
+		Remove_Earthquake
+		Feature Tweaks

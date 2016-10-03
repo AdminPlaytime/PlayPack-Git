@@ -1,0 +1,6 @@
+Addon_Mana Shield & Deadly Indicator
+
+Add blue effect when using Mana Shield, red effect when character is in Deadly state.
+Add Nimbus' buff Restful Wind status indicator.
+
+Source: Mana Shield and Deadly changes are from UO Tiara

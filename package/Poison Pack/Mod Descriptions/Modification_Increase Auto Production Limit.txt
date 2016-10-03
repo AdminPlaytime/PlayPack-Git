@@ -1,0 +1,4 @@
+Modification_Increase Auto Production Limit
+
+Removes limit of auto production queue.
+However you will be limited by the ingredient space.

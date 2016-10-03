@@ -1,0 +1,4 @@
+Addon_Fixed Dye Color Differentiation
+
+Adds background color of the dye.
+Color is not accurate in terms of hex or RGB value, however it is enough to distinguish between 2 different dyes.

@@ -1,0 +1,3 @@
+Delag_Indoor Dungeon & Mission
+
+Simplifies indoor dungeons and shadow missions.

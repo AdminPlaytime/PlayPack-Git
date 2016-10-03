@@ -1,0 +1,3 @@
+Addon_Easier Life Skill Minigames
+
+Simplifies minigames with simpler UI.

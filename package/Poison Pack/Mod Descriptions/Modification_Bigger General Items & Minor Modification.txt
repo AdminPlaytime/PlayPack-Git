@@ -1,0 +1,13 @@
+Modification_Bigger General Items & Minor Modification
+
+Differentiates Unknown Ore Fragments and Mythrills.
+Changes Gold, keys, herbs, alchemy crystals, firewood to larger props.
+Allows you to hotkey any item.
+Makes metallurgy area more eye-catching.
+
+Also changes Gold size range to the following:
+1 to 499 - small Gold
+500 to 749 - medium Gold
+750 to 1000 large Gold
+
+Source: Some files are from Wish Pack and Jjayo Pack

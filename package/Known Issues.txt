@@ -1,0 +1,10 @@
+#1 Abyss Disconnection
+	When using Abyss, you can disconnect if you use MultiClient function of Abyss.
+	You will need to disable Abyss or delete Poison Pack's Feature Tweaks mod.
+	However Feature Tweaks has more than just MultiClient function, so disabling Abyss' MultiClient feature is recommended.
+	
+	To disable Abyss' MultiClient, follow the instruction below:
+	1. Open "Abyss.ini" in Notepad
+	2. Find "EnableMultiClient=0" or ""EnableMultiClient=1"		// Using Ctrl + F in Notepad makes finding easier
+	3. Put a ";" in front of what you found.
+	4. It should look like ";EnableMultiClient=0" or ";EnableMultiClient=1"

@@ -1,0 +1,9 @@
+Feature Tweaks
+
+Multi-clienting enabled.
+- You must use a custom launcher.
+- Use this if you do not have one already. - https://dl.dropboxusercontent.com/u/38144184/Mabinogi%20Mods/NA01%20Package/MabiDirectLaunch.zip by Blade3575 
+	Make sure to read the files in the archieve.
+
+Reforge Real-view.
+- Shows real stats of a reforge underneath the line.

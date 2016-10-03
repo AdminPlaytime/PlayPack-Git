@@ -1,0 +1,5 @@
+Addon_L-Rod Amplification
+
+Amplifies L-Rod effects for easier artifact hunting.
+
+Source: I forgot where I got this from.

@@ -1,0 +1,3 @@
+Modification_Blank Character on Minimization
+
+Blanks out characters when minimization is active.

@@ -1,0 +1,3 @@
+Misc_Blood Effect in Combat
+
+Replaces hit effects with blood.
